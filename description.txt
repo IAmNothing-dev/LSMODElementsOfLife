@@ -1,0 +1,48 @@
+[i/p57:520][c/fec2ff:LSMOD - Elements Of Life.] [i/p57:520]
+[c/c2feff:v.2.3.0.]
+
+[c/c2feff: Last Pack] - [c/fff0a6: Ice Pack. ]
+[c/c2feff: Corrent Pack] - [c/fff0a6: Death Pack.]
+[c/c2feff: Next Pack] - [c/fff0a6: Fire Pack.]
+
+My idea is to create a mod that adds massive content, in which the mod is concentrated in the Packs, the classic 8 Elements of life (Ice, Air, Water, Earth, Fire, Lightning, Death and Life) but in the version LightShiro are 11 Elements and will be secret. Once the packs are finished, 
+I will try to create extra random content.
+
+I'm just asking for patience because it's just me working this mod, so adding content will be a bit slow compared to other mods. in any case I wish you a lot of fun.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If u want help me, u are welcome because i need help for the create the bosses.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[i/p57:520][c/fec2ff: ~ Total Content ~ ][i/p57:520]
+
+[c/c2feff: Weapon (Melee)] : 3(+2 Fused Broadswords) Broadsword, 2 Shortsword, 3 Spear, 2 YoYo, 2 Scythe, 1 Greatsword (Broadsword variant), 1 Raiper (Shortsword variant).
+[c/c2feff: Weapon (Ranged)] : 2 Bow + Arrow, 2 Firegun + Bullet.
+[c/c2feff: Weapon (Throwing)] : 2 Throwing weapon.
+[c/c2feff: Weapon (Magic)] : 1 Magic weapon, 1 Summon Weapon.
+[c/c2feff: Armor] : 2 Set Armor.
+[c/c2feff: Utility] : 1 Axe, 1 Pickaxe, 1 Hammer, 2 Potions.
+[c/c2feff: Mob] : 2 Mobs + Banners, 1 Boss(+Lore).
+[c/c2feff: Vanity] : 1 Pet, 1 Mount, 1 Set vanity(Vest).
+[c/c2feff: Accessory] : 1 Wings, 1 Accessory.
+[c/c2feff: World] : 4 Minerals (Ores, Crystals, Gems, Etc...). 1 Biome. 1 Wood (+Wood Fornitures), 2 Blocks(+Wall).
+
+[i/p57:520][c/fec2ff: ~ Mechanics ~ ][i/p57:520]
+
+[c/c2feff: Fusion Weapons] : Ice Element (Tier Final) , Death Element (Tier Final)
+
+[c/c2feff: Buff class] : Warrior Buff (Tier Final), Mage Buff (Tier Final), Summon Buff(Tier Final), Ranged Buff(Tier Final).
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[i/p57:520][c/fec2ff: ~ New on v2.3.0 ~ ][i/p57:520]
+
+[c/fff0a6: ~ Added : ]
+[Death Pack - Ice Pack] Weapons dusts.
+[Death Pack] Death Bullet.
+[Death Pack] 1 Armor.
+[Death Pack - Ice Pack] Death and Ice fusions tier max
+
+[c/fff0a6: ~ Changed : ]
+[Ice Pack] Weapons re-textured (Boardsword, Spear and Shortsword).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[c/fec2ff: ~ Have fun ~ ]
+[i/p57:520][c/fff0a6: By : LightShiro__ ][i/p57:520]

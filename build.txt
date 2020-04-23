@@ -1,0 +1,9 @@
+author = LightShiro
+version = 2.3.0
+displayName = [i/p57:520] [c/fec2ff:LSMOD - Elements Of Life] [i/p57:520] 
+homepage = https://forums.terraria.org/index.php?threads/lsmod-lightshiro-mod.87077/
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
