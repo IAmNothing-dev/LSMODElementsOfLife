@@ -25,10 +25,7 @@ namespace LSMODElementsOfLife.Items.IcePack.Summon
         }
         public override bool CanUseItem(Player player)
         {
-            return player.ZoneSnow && !Main.dayTime && !NPC.AnyNPCs(mod.NPCType("NomeDelBoss"));
-            {
-                return !Main.dayTime && !NPC.AnyNPCs(mod.NPCType("BeamsterBoss"));
-            }
+            return player.ZoneSnow && !Main.dayTime && !NPC.AnyNPCs(mod.NPCType("IceBoss"));
 
         }
         public override bool UseItem(Player player)
